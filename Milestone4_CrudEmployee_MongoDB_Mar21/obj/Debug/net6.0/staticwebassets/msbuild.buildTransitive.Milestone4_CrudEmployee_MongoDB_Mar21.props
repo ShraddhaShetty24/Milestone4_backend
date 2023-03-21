@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Milestone4_CrudEmployee_MongoDB_Mar21.props" />
+</Project>
